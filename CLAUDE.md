@@ -1,1 +1,1 @@
-/home/yangcj/projects/skills/AGENTS.md
+AGENTS.md
